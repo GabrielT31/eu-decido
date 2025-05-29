@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sedan+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Sedan+SC&display=swap');
+:root{
+    --polvora-bebe: #fffffaff;
+    --carie: #0d5c63ff;
+    --verdigris: #44a1a0ff;
+    --azul-tifanny: #78cdd7ff;
+    --foca: #247b7bff;
+    --preto: #000000;
+    --texto-corpo:"Sedan SC", serif;
+    --texto-titulo:"Poetsen One", sans-serif;
+}
