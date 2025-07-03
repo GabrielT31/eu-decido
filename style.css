@@ -17,3 +17,27 @@
     --texto-corpo:"Sedan SC", serif;
     --texto-titulo:"Poetsen One", sans-serif;
 }
+
+body{
+    background-color: var(--azul-tifanny);
+    color:var(--foca);
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    min-height:100vh;
+    font-family: var(--texto-titulo)
+}
+
+.caixa-principal{
+    background-color: var(--polvora-bebe);
+    width: 90%;
+    max-width: 600px;
+    text-align:center;
+    padding:20px;    
+}
+
+.titulo{
+    color: var(--carie);
+    font-family: var(--texto-corpo);
+    
+}
